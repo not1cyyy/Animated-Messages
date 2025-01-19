@@ -250,7 +250,7 @@
 
   <!-- Hi -->
   <g transform="translate(10, 0)" class="msg-1 bubble">
-    <rect width="150" height="42" rx="18.0355" />
+    <rect width="168" height="42" rx="18.0355" />
     <text x="15" y="27">你好！我是费乐思</text>
   </g>
 
@@ -273,7 +273,7 @@
 
   <!-- Work... -->
   <g transform="translate(10, 48)" class="msg-2">
-    <rect width="180" height="66.1302" rx="18.0355" class="bubble" />
+    <rect width="200" height="66.1302" rx="18.0355" class="bubble" />
     <text x="15" y="27">我是一个有道德的黑客</text>
      <text x="15" y="50">我没有伤害任何人<tspan class="emoji">👨‍💻</tspan></text>
   </g>
